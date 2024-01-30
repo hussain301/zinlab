@@ -7,3 +7,10 @@
     text-wrap: balance;
   }
 }
+.slick-slider > button {
+  width: 50px;
+  z-index: 999;
+  border-radius: 50%;
+  height: 50px;
+  background-color: royalblue;
+}
